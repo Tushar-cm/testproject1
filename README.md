@@ -1,2 +1,2 @@
 # testproject1
-my name is tushar pandey!
+My name is Tushar Pandey!
